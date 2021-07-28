@@ -12,6 +12,6 @@ in the finance team.
 
 Steps:
 1. Exploration and Data analysis
-2. Building model using machine learning 
+2. Building models using machine learning 
 3. Predict sales using Facebook Prophet 
 4. Predcict sales using Deep Learning
